@@ -17,8 +17,8 @@ Quick start
         "django.contrib.admin",
         ...
     ]
-2. Add "main.css" to your django project, add file in path::
-    "static/admin/css"
+    
+2. Add "main.css" to your django project in path: "static/admin/css"
 
 3. Start the development server and visit http://127.0.0.1:8000/admin/ or your admin url.
    The "Mazer" template should override the default admin panel designs.

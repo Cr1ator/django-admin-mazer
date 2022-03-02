@@ -10,14 +10,15 @@ Quick start
 -----------
 
 1. Add "django_admin_mazer" to your INSTALLED_APPS setting above "django.contrib.admin" like this::
-
+```
     INSTALLED_APPS = [
         'django_admin_mazer',
         "django.contrib.admin",
         ...
     ]
+ ```
     
-2. Add "main.css" to your django project in path: "static/admin/css"
+2. Add "main.css" to your django project in path: ```"static/admin/css"```
 
 3. Start the development server and visit http://127.0.0.1:8000/admin/ or your admin url.
    The "Mazer" template should override the default admin panel designs.

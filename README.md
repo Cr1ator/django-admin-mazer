@@ -22,3 +22,5 @@ Quick start
 
 3. Start the development server and visit http://127.0.0.1:8000/admin/ or your admin url.
    The "Mazer" template should override the default admin panel designs.
+   
+![photo](https://raw.githubusercontent.com/Cr1ator/django-admin-mazer/main/django_admin_mazer/templates/static/assets/images/main_menu.png)
